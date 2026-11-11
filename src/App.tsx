@@ -1,5 +1,5 @@
 
-import Todo from './components/Models/todo';
+import Todo from './models/todo';
 import Todos from './components/Todos';
 
 function App() {
